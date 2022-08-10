@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sun Mar 01 22:47:42 CST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instance a816c00e-0170-9992-391e-0000072651b0 
+on database directory /Users/oabouelazm/Desktop/abo123/Product/BusinessFinancials with class loader sun.misc.Launcher$AppClassLoader@42a57993 
+Loaded from file:/Users/oabouelazm/Desktop/abo123/Product/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_181-b13
+user.dir=/Users/oabouelazm/Desktop/abo123/Product
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.13.6
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
